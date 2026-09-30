@@ -1,0 +1,5 @@
+{
+  "name": "TradeGPT BTC Optimizer",
+  "description": "Générateur et optimiseur de stratégies Bitcoin en Pine Script v5 — simulation uniquement.",
+  "capabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
